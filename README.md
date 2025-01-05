@@ -1,1 +1,1 @@
-# odin-sign-up-form
+The project "Sign-up Form" consisted in creating a sign-up form while applying some of the new subjects that we previously learned.
